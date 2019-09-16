@@ -21,6 +21,11 @@ readonly FILEPATHS=(
     "node_modules ../package.json"
     ".vagrant ../Vagrantfile"
     "bower_components ../bower.json"
+    "target ../pom.xml"
+    ".stack-work ../stack.yaml"
+    "Carthage ../Cartfile"
+    "Pods ../Podfile"
+    ".build ../Package.swift"
 )
 
 # Given a directory path, determine if the corresponding file (relative
